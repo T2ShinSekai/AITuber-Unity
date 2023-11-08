@@ -1,0 +1,1 @@
+{"boneGroups":[{"stiffiness":1,"gravityPower":0,"gravityDir":{"x":0,"y":-1,"z":0},"dragForce":0.4,"center":-1,"hitRadius":0.02,"bones":[18],"colliderGroups":[0]}],"colliderGroups":[{"node":5,"colliders":[{"offset":{"x":0,"y":0,"z":0.93},"radius":1}]}]}

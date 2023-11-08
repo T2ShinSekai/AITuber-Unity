@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: ExpressionsMenu_Others
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u30A2\u30D2\u30EB\u3061\u3083\u3093"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: OthersAhiru
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30AD\u30E3\u30C3\u30C1\u30E9\u30A4\u30C8"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: OthersEyeCatchlight
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u306E\u3046\u3081\u3093"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: OthersFaceless
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u307B\u3063\u307A"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: OthersCheek
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u307E\u3070\u305F\u304D"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: OthersBlink
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u6C57"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: OthersSweat
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u6C57\uFF12"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: OthersSweat2
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: EyeTracking
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: OthersEyeTracking
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: ExpressionsMenu_Negative
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Angry
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: NegativeAngry
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sorrow
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: NegativeSorrow
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u304B\u3052\u308A"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: NegativeKageri
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u679D\u8C46\u840E\u3048"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: NegativeNae
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u9752\u3056\u3081"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: NegativeAozame
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u6D99"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: NegativeTears
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
