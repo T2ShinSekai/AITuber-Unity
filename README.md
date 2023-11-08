@@ -22,7 +22,8 @@
 1. 必要なUnityのバージョンをUnity Hubを通じてインストールします。
 2. このリポジトリをクローンします。
    ```bash
-   git clone [リポジトリURL]
+   git clone https://github.com/T2ShinSekai/AITuber-Unity.git
+   ```
 3. Unity Hubを開き、「Add」ボタンをクリックして、クローンしたプロジェクトのディレクトリを選択します。
 4. Unityプロジェクトリストからプロジェクトを選び、Unityエディタで開きます。
 
