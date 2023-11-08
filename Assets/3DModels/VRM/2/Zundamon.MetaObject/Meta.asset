@@ -1,28 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 63b589176a34b344b9ccbee2b7e7114a, type: 3}
-  m_Name: Meta
-  m_EditorClassIdentifier: 
-  ExporterVersion: UniVRM-0.99.4
-  Title: Zundamon
-  Version: 1
-  Author: Satoki
-  ContactInformation: 
-  Reference: Sakamoto_Ahiru
-  Thumbnail: {fileID: 2800000, guid: d3438329f27b2a94ea2e4c6555eb078c, type: 3}
-  AllowedUser: 0
-  ViolentUssage: 0
-  SexualUssage: 0
-  CommercialUssage: 0
-  OtherPermissionUrl: 
-  LicenseType: 0
-  OtherLicenseUrl: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b760d0767c399512598ed343fe713a3b664c966ae3342de2cccfbbd35ca4342
+size 741

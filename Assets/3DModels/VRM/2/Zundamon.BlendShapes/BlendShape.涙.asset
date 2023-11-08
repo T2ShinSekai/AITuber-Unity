@@ -1,23 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 37562b39ff933b245ac2f35d87edbcd6, type: 3}
-  m_Name: "BlendShape.\u6D99"
-  m_EditorClassIdentifier: 
-  m_prefab: {fileID: 0}
-  BlendShapeName: "\u6D99"
-  Preset: 0
-  Values:
-  - RelativePath: Head
-    Index: 16
-    Weight: 100
-  MaterialValues: []
-  IsBinary: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:e18e7470bede8e15b69c4a9be56502a3ff5609b406ef0feafed5ed6b77ef3d7d
+size 569
